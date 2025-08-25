@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fuente-12v")(type "KiCad")(uri "${KIPRJMOD}/fuente-12v.kicad_sym")(options "")(descr ""))
+)
