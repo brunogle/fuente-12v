@@ -1,4 +1,4 @@
-26110419422474277
+26112179408283274
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104145,6 +104145,13 @@ fuente-12v
 0
 14
 14
+fuente-12v
+Fuseholder_BLX-A
+
+
+0
+2
+2
 fuente-12v
 ST-110
 
