@@ -6128,12 +6128,6 @@
 		(uuid "644640b7-c100-4ff8-b418-762c8d44b81a")
 	)
 	(junction
-		(at 300.99 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "777d37ac-b4d3-4989-be12-7c95b2cd71ab")
-	)
-	(junction
 		(at 236.22 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6234,6 +6228,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2bcab26-8976-40df-9503-a299ae5e2d57")
+	)
+	(junction
+		(at 256.54 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae29583d-3090-4a85-a101-d9353264b5c6")
 	)
 	(junction
 		(at 218.44 191.77)
@@ -6517,6 +6517,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 110.49) (xy 262.89 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09ecbe3c-da59-4e1d-a57b-55857aaab091")
+	)
+	(wire
+		(pts
 			(xy 247.65 228.6) (xy 247.65 219.71)
 		)
 		(stroke
@@ -6554,6 +6564,16 @@
 			(type default)
 		)
 		(uuid "0d64241b-8877-493a-93de-be3d51b1e820")
+	)
+	(wire
+		(pts
+			(xy 340.36 119.38) (xy 341.63 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0df98a4a-eb70-406c-b8b5-df063bb906a0")
 	)
 	(wire
 		(pts
@@ -6778,16 +6798,6 @@
 	)
 	(wire
 		(pts
-			(xy 349.25 110.49) (xy 349.25 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21ec8fbc-9fe5-4f11-8901-1c7eae856d71")
-	)
-	(wire
-		(pts
 			(xy 176.53 167.64) (xy 176.53 168.91)
 		)
 		(stroke
@@ -6875,16 +6885,6 @@
 			(type default)
 		)
 		(uuid "2e70f878-9837-44c2-8b48-f5bcda27ba17")
-	)
-	(wire
-		(pts
-			(xy 300.99 110.49) (xy 306.07 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31b3b498-d925-41e8-85f1-a32386351710")
 	)
 	(wire
 		(pts
@@ -7128,6 +7128,16 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 110.49) (xy 340.36 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ad56335-de49-481c-9eb4-cce8b7afa26e")
+	)
+	(wire
+		(pts
 			(xy 176.53 157.48) (xy 176.53 160.02)
 		)
 		(stroke
@@ -7135,16 +7145,6 @@
 			(type default)
 		)
 		(uuid "4beea603-8703-436e-a58c-62f03ed63cbe")
-	)
-	(wire
-		(pts
-			(xy 262.89 110.49) (xy 248.92 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c31be21-bcb3-4f31-9e72-c963f9f27fa2")
 	)
 	(wire
 		(pts
@@ -7408,6 +7408,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 107.95) (xy 257.81 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "651875c8-acc6-4ad3-94b5-ec63c23e9083")
+	)
+	(wire
+		(pts
 			(xy 199.39 132.08) (xy 196.85 132.08)
 		)
 		(stroke
@@ -7638,7 +7648,7 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 107.95) (xy 300.99 110.49)
+			(xy 256.54 107.95) (xy 256.54 110.49)
 		)
 		(stroke
 			(width 0)
@@ -8015,6 +8025,16 @@
 			(type default)
 		)
 		(uuid "8d399b67-a00c-4997-ba17-a1ec9a99903a")
+	)
+	(wire
+		(pts
+			(xy 349.25 110.49) (xy 349.25 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dc19881-07b1-4c57-8983-9ebb0e6ee84e")
 	)
 	(wire
 		(pts
@@ -8438,16 +8458,6 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 119.38) (xy 341.63 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c12cc527-eb99-4825-a0ad-dc91c5959190")
-	)
-	(wire
-		(pts
 			(xy 191.77 214.63) (xy 191.77 217.17)
 		)
 		(stroke
@@ -8658,6 +8668,16 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 110.49) (xy 256.54 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9d48389-2ff8-4873-a5d2-c3781d04e6b7")
+	)
+	(wire
+		(pts
 			(xy 223.52 101.6) (xy 224.79 101.6)
 		)
 		(stroke
@@ -8668,7 +8688,7 @@
 	)
 	(wire
 		(pts
-			(xy 290.83 110.49) (xy 300.99 110.49)
+			(xy 290.83 110.49) (xy 306.07 110.49)
 		)
 		(stroke
 			(width 0)
@@ -8685,16 +8705,6 @@
 			(type default)
 		)
 		(uuid "df8fcc93-45a9-438b-a127-d0a7ce51b577")
-	)
-	(wire
-		(pts
-			(xy 340.36 110.49) (xy 340.36 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e008e60e-dac4-4970-b4ad-5bde0391cd9e")
 	)
 	(wire
 		(pts
@@ -9177,7 +9187,7 @@
 		(uuid "a24693b0-c7c6-4da8-8cff-89c948ce0df9")
 	)
 	(label "12V"
-		(at 300.99 107.95 0)
+		(at 256.54 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11120,6 +11130,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 345.44 119.38 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "25798e03-360d-48fd-b5f3-85327b722a71")
+		(property "Reference" "R5"
+			(at 345.44 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.047"
+			(at 345.44 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
+			(at 345.44 121.158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 345.44 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "https://www.dicomse.com.ar/"
+			(at 345.44 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f0a86efc-f3c0-4f35-a164-fd807c9b8ecf")
+		)
+		(pin "1"
+			(uuid "afc4f3b1-4b37-4d7f-914e-6b0dc699f1d8")
+		)
+		(instances
+			(project "fuente-12v"
+				(path "/55d2e28b-83a0-4cce-b804-0834af0209d7"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D_Schottky_AKA")
 		(at 224.79 110.49 180)
 		(unit 1)
@@ -12979,7 +13058,7 @@
 				)
 			)
 		)
-		(property "Value" "80k"
+		(property "Value" "27k"
 			(at 147.066 105.41 90)
 			(effects
 				(font
@@ -17204,7 +17283,7 @@
 				)
 			)
 		)
-		(property "Value" "0.018"
+		(property "Value" "0.047"
 			(at 345.44 106.68 90)
 			(effects
 				(font
@@ -17249,74 +17328,6 @@
 			(project "fuente-12v"
 				(path "/55d2e28b-83a0-4cce-b804-0834af0209d7"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 345.44 119.38 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "edbef5b0-5b24-4054-b3c4-022353916faa")
-		(property "Reference" "R5"
-			(at 345.44 115.062 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.018"
-			(at 345.44 117.094 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
-			(at 345.44 121.158 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 345.44 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "https://www.dicomse.com.ar/"
-			(at 345.44 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "da48c0c7-0292-445b-873d-e9560a1dd44a")
-		)
-		(pin "1"
-			(uuid "032c2952-adc2-4bf2-b515-17b24a56bdf8")
-		)
-		(instances
-			(project "fuente-12v"
-				(path "/55d2e28b-83a0-4cce-b804-0834af0209d7"
-					(reference "R5")
 					(unit 1)
 				)
 			)
